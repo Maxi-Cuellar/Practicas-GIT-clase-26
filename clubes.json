@@ -1,0 +1,17 @@
+[
+    {
+        "CLUB" : "BOCA JUNIORS",
+        "COPAS" : 76,
+        "CATEGORIA" : "PRIMERA"
+    },
+    {
+        "CLUB" : "RIVER",
+        "COPAS" : 70,
+        "CATEGORIA" : "PRIMERA"
+    },
+    {
+        "CLUB" : "ALL BOYS",
+        "COPAS" : 5,
+        "CATEGORIA" : "SEGUNDA"
+    }
+]
