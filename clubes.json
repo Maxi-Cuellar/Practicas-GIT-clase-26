@@ -13,5 +13,10 @@
         "CLUB" : "ALL BOYS",
         "COPAS" : 5,
         "CATEGORIA" : "SEGUNDA"
+    },
+    {
+        "CLUB" : "Racing Club",
+        "COPAS" : 12,
+        "CATEGORIA" : "PRIMERA" 
     }
 ]
